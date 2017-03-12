@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Npa.HelloWorld.VsCreated", "Npa.HelloWorld.VsCreated\Npa.HelloWorld.VsCreated.csproj", "{A0733FFD-FCE3-4580-976F-AA03F50A7CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Npa.HelloWorld.VsCreated.Tests", "Npa.HelloWorld.VsCreated.Tests\Npa.HelloWorld.VsCreated.Tests.csproj", "{23D340BF-C700-4EB5-90D4-3DDE2EC05459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Npa.HelloWorld", "Npa.HelloWorld\Npa.HelloWorld.csproj", "{5D6576A2-2F30-47E5-A841-5ED7AFFBCF81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0733FFD-FCE3-4580-976F-AA03F50A7CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0733FFD-FCE3-4580-976F-AA03F50A7CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0733FFD-FCE3-4580-976F-AA03F50A7CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0733FFD-FCE3-4580-976F-AA03F50A7CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D340BF-C700-4EB5-90D4-3DDE2EC05459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D340BF-C700-4EB5-90D4-3DDE2EC05459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D340BF-C700-4EB5-90D4-3DDE2EC05459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D340BF-C700-4EB5-90D4-3DDE2EC05459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6576A2-2F30-47E5-A841-5ED7AFFBCF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6576A2-2F30-47E5-A841-5ED7AFFBCF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6576A2-2F30-47E5-A841-5ED7AFFBCF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6576A2-2F30-47E5-A841-5ED7AFFBCF81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
