@@ -21,6 +21,7 @@
 bld/
 [Bb]in/
 [Oo]bj/
+[Ll]og/
 
 # Visual Studio 2015 cache/options directory
 .vs/
@@ -169,6 +170,8 @@ rcf/
 # Windows Store app package directory
 AppPackages/
 BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
@@ -237,6 +240,11 @@ ModelManifest.xml
 
 # Paket dependency manager
 .paket/paket.exe
+paket-files/
 
 # FAKE - F# Make
 .fake/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
